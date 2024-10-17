@@ -1,15 +1,26 @@
 # WMC Materialien 3AAIF WS 2425
-.
-
 
 Willkommen zur Webprogrammierung!
 
-HÜ:
+## 2024-10-17
 
-Website "über mich" mit semantic html und
-CSS laut Folie
+- abolute pfade in css links et al. (ali sina, simon, hewad)
+
+## 2024-10-10
+
+- gewünschte Ordnernamen anzeigen, zb. Ahmad Fardin, Dolezal, Latak
+- chaos im repo popalzai
+- Super Arbeit: Elmaghazy
+- Was ist mit Mohammadi Mohammad Reza?
+- w3c validator plugin
+
+- WH Semantic HTML
+- CSS Selectors
+- CSS Selectors: <https://wiki.selfhtml.org/wiki/CSS/Selektoren>
 
 ## 2024-10-03
+
+HÜ: Website "über mich" mit semantic html und CSS laut Folie
 
 - semantic html
 - folie css
