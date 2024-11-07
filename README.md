@@ -2,6 +2,10 @@
 
 Willkommen zur Webprogrammierung!
 
+## 2024-11-07
+
+Bisherige Abgabe in neuen Ordner "2024-11-07_bootstrap" kopieren und *ausschließlich* mit bootstrap das gleiche Styling erreichen
+
 ## 2024-10-17
 
 - abolute pfade in css links et al. (ali sina, simon, hewad)
